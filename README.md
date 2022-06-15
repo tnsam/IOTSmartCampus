@@ -1,4 +1,4 @@
-# IOTSmartCampus
+# IOT Smart Campus
 A smart campus project utilizes smart technologies to create new experiences and services. These smart technologies, which are connected to the Internet and AI-driven, allow different hardware on the campus to communicate with each other with less human intervention. It helps to improve various aspects of all the stakeholders including the students, teaching staff, or even canteen operators. The smart campus project consists of 3 main modules which are:
 
 1. Smart Hall
